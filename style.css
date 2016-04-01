@@ -1,0 +1,9 @@
+.nav-tabs > li > a {
+  background-color: #4682b4  !important;
+    color:#fff;
+}
+
+.fa-home {
+  color: white;
+  height: 20px;
+}
